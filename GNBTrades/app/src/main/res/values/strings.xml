@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GNBTrades</string>
+    <string name="splash_image">Splash image</string>
+    <string name="currency">Currency</string>
+    <string name="amount">Amount</string>
+    <string name="test_name">Test name</string>
+    <string name="total_sum_123456_78_eur">Total sum: 123456,78 EUR</string>
+</resources>
